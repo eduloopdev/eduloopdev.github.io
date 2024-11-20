@@ -1,0 +1,3 @@
+[submodule "themes/themes/hugo-theme-m10c"]
+	path = themes/themes/hugo-theme-m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
