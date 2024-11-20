@@ -13,11 +13,7 @@ theme = "hugo-theme-m10c"
     name = "Home"
     url = "/"
     weight = 1
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 3
+
 
 [params]
   author = "Eduardo Flores"
