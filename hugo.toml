@@ -19,7 +19,7 @@ theme = "hugo-theme-m10c"
   author = "Eduardo Flores"
   description = '''
   Hello! I'm a Software Engineer, working mainly with backend systems. I'm proficient using Java, Go, and Rust.
-
+  Welcome to my personal blog.
   '''
   menu_item_separator = " - "
   avatar = "/fronzec-01.jpg"
