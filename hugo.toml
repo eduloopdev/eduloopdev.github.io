@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fronzec.github.io/'
 languageCode = 'en-us'
-title = "Eduardo's Site"
+title = "Eduardo Flores"
 theme = "hugo-theme-m10c"
 
 
@@ -14,24 +14,26 @@ theme = "hugo-theme-m10c"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
     weight = 3
 
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  author = "Eduardo Flores"
+  description = '''
+  I'm a Software Engineer, working mainly with backend systems. I'm proficient using Java, Go, and Rust.
+  '''
   menu_item_separator = " - "
   [[params.social]]
     icon = "brand-github"
     name = "Github"
     url = "https://github.com/gohugoio"
+  [[params.social]]
+    icon = "brand-linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/fronzec/"
+
 
 
   # Default theme
