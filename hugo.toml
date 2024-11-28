@@ -1,4 +1,4 @@
-baseURL = 'https://fronzec.github.io/'
+baseURL = 'https://eduloopdev.github.io/'
 languageCode = 'en-us'
 title = "Eduardo Flores"
 theme = "hugo-theme-m10c"
@@ -26,11 +26,11 @@ theme = "hugo-theme-m10c"
   [[params.social]]
     icon = "brand-github"
     name = "Github"
-    url = "https://github.com/fronzec"
+    url = "https://github.com/eduloopdev"
   [[params.social]]
     icon = "brand-linkedin"
     name = "LinkedIn"
-    url = "https://www.linkedin.com/in/fronzec/"
+    url = "https://www.linkedin.com/in/eduloopdev/"
 
 
 
