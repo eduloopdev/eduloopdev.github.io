@@ -1,4 +1,4 @@
-# eduloopdev.github.io
+# fronzec.github.io
 My public portfolio website
 
 ## Tech Stack
