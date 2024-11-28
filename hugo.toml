@@ -1,4 +1,4 @@
-baseURL = 'https://fronzec.github.io/'
+baseURL = 'https://eduloopdev.github.io/'
 languageCode = 'en-us'
 title = "Eduardo Flores"
 theme = "hugo-theme-m10c"
